@@ -1,4 +1,4 @@
 var A = "bob";
 var B = "bobson";
 
-console.log(A + B);
+console.log(A + " " + B);
